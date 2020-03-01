@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Grocery Store App",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "node bamazonCustomer.js"
+  },
+  "author": "Shishir",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
+  }
+}
